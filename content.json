@@ -1,5 +1,24 @@
 {
     "Front Page": {
-        "Date of birth": "1982-02-09T23:00:00.000Z"
+        "Date of birth": "1982-02-09T23:00:00.000Z",
+        "Contract information": {},
+        "Profile for which employee is entered": {
+            "selectedChoices": {}
+        },
+        "Highest relevant educational qualification": {},
+        "Languages": {
+            "0": [],
+            "selectedChoices": {}
+        },
+        "Professional experience": {}
+    },
+    "Training Page": {
+        "Training": []
+    },
+    "Software Expertise Page": {
+        "Software expertise": []
+    },
+    "Professional Experience Page": {
+        "Project experience": []
     }
 }
